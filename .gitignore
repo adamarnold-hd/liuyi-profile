@@ -1,0 +1,7 @@
+edge-profile/
+liuyi-profile-publish/
+unused_ppt_assets_backup/
+*.zip
+*.log
+Thumbs.db
+.DS_Store
